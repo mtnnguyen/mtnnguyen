@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Martin Nguyen
 
-<!--
-**mtnnguyen/mtnnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I'm a **first-year Computer Science student** at the **University of Toronto**, with a passion for leveraging technology to solve real-world problems. I'm proficient in **Python**, cloud technologies, and teamwork, and I'm actively exploring the fields of **artificial intelligence**, **software development**, and **cybersecurity**.
 
-Here are some ideas to get you started:
+- 🌍 **Location:** Toronto, Ontario, Canada
+- 💼 **Open to Work:** Seeking Software Developer roles
+- 📚 **Education:** Currently a Computer Science student 
+- 🌟 **Fun Fact:** My peak rapid chess rating was 1919
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Martin Nguyen](https://www.linkedin.com/in/martinuoftcs/)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-github-profile)
+- **Email:** [Your Email](mailto:martin.nguyxn@gmail.com)
+
+---
+
+Thank you for visiting my GitHub profile! Let's create, innovate, and make an impact together. 😊
