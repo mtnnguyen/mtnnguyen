@@ -12,9 +12,8 @@ I'm a **first-year Computer Science student** at the **University of Toronto**, 
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Martin Nguyen](https://www.linkedin.com/in/martinuoftcs/)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-github-profile)
-- **Email:** [Your Email](mailto:martin.nguyxn@gmail.com)
+- **Email:** [martin.nguyxn@gmail.com](mailto:martin.nguyxn@gmail.com)
 
 ---
 
-Thank you for visiting my GitHub profile! Let's create, innovate, and make an impact together. 😊
+Thank you for visiting my GitHub profile! Let's talk, and make an impact together. 😊
