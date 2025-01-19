@@ -16,4 +16,4 @@ I'm a **first-year Computer Science student** at the **University of Toronto**, 
 
 ---
 
-Thank you for visiting my GitHub profile! Let's talk, and make an impact together. 😊
+Thank you for visiting my GitHub profile! Let's talk and make an impact together. 😊
