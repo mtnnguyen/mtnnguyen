@@ -6,6 +6,7 @@ I'm a **first-year Computer Science student** at the **University of Toronto**, 
 - 🌍 **Location:** Toronto, Ontario, Canada
 - 💼 **Open to Work:** Seeking Software Developer roles
 - 💻 **Proficient languages:** HTML/CSS, Python
+- 🔧 **Tools:** Replit, Git/GitHub, Eclipse, Pycharm
 - 🌟 **Fun Fact:** My peak rapid chess rating is 1919
 
 ---
