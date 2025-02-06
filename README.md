@@ -11,12 +11,6 @@ I'm a **first-year Computer Science student** at the **University of Toronto**, 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [https://www.linkedin.com/in/martinuoftcs/](https://www.linkedin.com/in/martinuoftcs/)
-- **Email:** [martin.nguyxn@gmail.com](mailto:martin.nguyxn@gmail.com)
-
----
-
-### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martinuoftcs/) 
 
 ---
