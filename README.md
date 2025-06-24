@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Martin!
+# 👋 Hello!
 
 ### 🎓 About Me
-I'm a **first-year Computer Science student** at the **University of Toronto**, passionate about becoming a real developer to solve real-world problems. I'm proficient in **Python**, cloud technologies, and communication, and I'm actively exploring the fields of **artificial intelligence**, **software development**, and **cybersecurity**.
+I'm a **second-year Computer Science student** at the **University of Toronto**, passionate about becoming a real developer to solve real-world problems. I'm proficient in **Python**, cloud technologies, and communication, actively exploring the fields of **artificial intelligence**, **software development**, and **cybersecurity**.
 
-- 💻 **What I'm up to:** I’m currently working on cybersecurity and web development
-- 💾 **Proficient languages and markups:** Python, HTML/CSS, JavaScript
-- 🔧 **Tools:** Replit, Git/GitHub, Eclipse, Pycharm
-- 🌟 **Fun Fact:** My peak rapid chess rating was 1919
+- 💻 **What I'm up to:** I’m currently working on cybersecurity and web development projects
+- 💾 **Proficient languages and markups:** Python, HTML/CSS, JavaScript, Java
+- 🔧 **Tools:** Replit, Git/GitHub, Eclipse, Pycharm, VSCode
+- 🌟 **Fun Fact:** I've ran the 2025 Toronto Marathon
 
 ---
 
