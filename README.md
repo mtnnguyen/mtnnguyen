@@ -1,12 +1,12 @@
 # 👋 Hello!
 
 ### 🎓 About Me
-I'm a **second-year Computer Science student** at the **University of Toronto**, passionate about becoming a real developer to solve real-world problems. I'm proficient in **Python**, cloud technologies, and communication, actively exploring the fields of **artificial intelligence**, **software development**, and **cybersecurity**.
+I'm a **second-year GeoSpatial Data Science and Computer Science student** at the **University of Toronto**, passionate about becoming a real developer to solve real-world problems. I'm proficient in **Python**, cloud technologies, and communication, actively exploring the fields of **data analysis** and **software development**.
 
 - 💻 **What I'm up to:** I’m currently working on cybersecurity and web/app development projects
 - 💾 **Proficient languages and markups:** Python, HTML/CSS, JavaScript, Java
-- 🔧 **Tools:** Replit, Git/GitHub, Eclipse, Pycharm, VSCode
-- 🌟 **Fun Fact:** I've ran the 2025 Toronto Marathon
+- 🔧 **Tools:** Replit, Git/GitHub, Eclipse, PyCharm, VSCode
+- 🌟 **Fun Fact:** I've run the 2025 Toronto Marathon
 
 ---
 
