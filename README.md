@@ -1,7 +1,7 @@
 # 👋 Hello!
 
 ### 🎓 About Me
-I'm a **third-year Data Science and Statistics student** at the **University of Toronto**, passionate about becoming a real developer to solve real-world problems. I'm proficient in **Python**, cloud technologies, and communication, actively exploring the fields of **data** and **sports analysis**.
+I'm a **third-year Data Science and Statistics student** at the **University of Toronto**, passionate about becoming a real data scientist to solve real-world problems. I'm proficient in **Python**, **SQL**, cloud technologies, and communication, actively exploring the fields of **data** and **sports analysis**.
 
 ---
 
